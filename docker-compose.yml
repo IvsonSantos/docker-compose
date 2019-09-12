@@ -1,3 +1,6 @@
+# docker-compose build
+# docker-compose up
+
 # A docker-compose must always start by the version tag.
 # We use "3" because it's the last version at this time.
 version: "3"
